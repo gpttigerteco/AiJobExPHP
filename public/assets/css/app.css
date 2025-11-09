@@ -1,0 +1,12 @@
+/* Custom styles for AiJobExPHP application */
+body {
+    background-color: #f8f9fa;
+    font-family: "Vazirmatn", "IRANSans", sans-serif;
+}
+.sidebar {
+    min-width: 260px;
+}
+.chat-message {
+    border-radius: .75rem;
+    padding: 1rem;
+}
